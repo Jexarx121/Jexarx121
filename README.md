@@ -8,7 +8,7 @@
 
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/zjchen402/).**
 
-- ⚡ Love movies (**Everything Everywhere All at Once is peak! 👌**) and games (Silksong believer).
+- ⚡ Love movies (Everything Everywhere All at Once 👌) and games (Silksong believer 😔).
 
 
 <h3 align="left">Languages:</h3>
