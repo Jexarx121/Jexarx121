@@ -1,5 +1,5 @@
 <h1 align="center">👋 Y'hello, I'm Zhi Jie Chen</h1>
-<h3 align="center">An aspiring and passionate fullstack developer from Ireland</h3>
+<h3 align="center">A passionate fullstack and software developer from Ireland</h3>
 
 ### Some stuff about me:
 - 🌱 I’m currently learning **Next.js, AWS, MongoDB (More stuff to in future!).**
