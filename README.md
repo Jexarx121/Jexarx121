@@ -21,7 +21,7 @@
 
 <h3 align="left">Backend & Databases:</h3>
 
-[![Framework&Tools](https://skillicons.dev/icons?i=mongodb,aws,supabase,nodejs,sqlite,&theme=light)](https://skillicons.dev)
+[![Framework&Tools](https://skillicons.dev/icons?i=mongodb,aws,nodejs,express,prisma,supabase,&theme=light)](https://skillicons.dev)
 
 ### Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jexarx121&show_icons=true&locale=en&layout=compact" alt="jexarx121" /></p>
