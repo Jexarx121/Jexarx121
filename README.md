@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack and software developer from Ireland</h3>
 
 ### Some stuff about me:
-- 🌱 I'm always learning. (Everything I've learned will be out of date in a weeks time. (╯°□°)╯︵ ┻━┻ )**
+- 🌱 I'm always learning. (All the technologies I've learned will be out of date in a weeks time. (╯°□°)╯︵ ┻━┻ ).
 
 - 👨‍💻 All of my projects and experience are available on my [Portfolio](https://portfolio-jexarx121s-projects.vercel.app/).
 
