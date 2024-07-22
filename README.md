@@ -13,11 +13,11 @@
 
 <h3 align="left">Languages:</h3>
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,python,java,cypress&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,python,java&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Frameworks & Tools:</h3>
 
-[![Framework&Tools](https://skillicons.dev/icons?i=react,nextjs,tailwind,scss,flask,figma,git,markdown,latex,vim&theme=light)](https://skillicons.dev)
+[![Framework&Tools](https://skillicons.dev/icons?i=react,nextjs,tailwind,scss,cypress,figma,git,markdown,latex,neovim,vim&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Backend & Databases:</h3>
 
