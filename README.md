@@ -2,13 +2,13 @@
 <h3 align="center">A passionate fullstack and software developer from Ireland</h3>
 
 ### Some stuff about me:
-- 🌱 I'm always learning. (All the technologies I've learned will be out of date in a weeks time. (╯°□°)╯︵ ┻━┻ ).
+- Always learning. (All the technologies I've learned will be out of date in a weeks time. (╯°□°)╯︵ ┻━┻ ).
 
-- 👨‍💻 All of my projects and experience are available on my [Portfolio](https://portfolio-jexarx121s-projects.vercel.app/).
+- Everything available on my [Portfolio](https://portfolio-jexarx121s-projects.vercel.app/).
 
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/zjchen402/).**
+- Connect with me on **[LinkedIn](https://www.linkedin.com/in/zjchen402/).**
 
-- ⚡ Love movies (Everything Everywhere All at Once 👌) and games (Silksong believer 😔).
+- Love movies (Everything Everywhere All at Once 👌) and games (Silksong believer 😔).
 
 
 <h3 align="left">Languages:</h3>
