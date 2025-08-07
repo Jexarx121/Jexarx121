@@ -17,7 +17,7 @@
 
 <h3 align="left">Frameworks & Tools:</h3>
 
-[![Framework&Tools](https://skillicons.dev/icons?i=react,nextjs,tailwind,scss,cypress,figma,git,markdown,latex,vim&theme=light)](https://skillicons.dev)
+[![Framework&Tools](https://skillicons.dev/icons?i=react,nextjs,tailwind,scss,cypress,figma,git,markdown,neovim&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Backend & Databases:</h3>
 
