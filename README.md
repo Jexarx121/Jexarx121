@@ -4,7 +4,7 @@
 ### Some stuff about me:
 - Always learning. (All the technologies I've learned will be out of date in a weeks time. (╯°□°)╯︵ ┻━┻ ).
 
-- Everything available on my [Portfolio](https://portfolio-jexarx121s-projects.vercel.app/).
+- Everything available on my [Portfolio](https://zhijiechen.com/).
 
 - Connect with me on **[LinkedIn](https://www.linkedin.com/in/zjchen402/).**
 
